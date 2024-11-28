@@ -1,0 +1,28 @@
+.card-img-top {
+    width: 419px;
+    height: 244px;
+}
+#fut{
+    background-color: #001373;
+}
+
+#fut1{
+    background-color: rgb(39, 83, 206);
+    min-height: 8vh;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0; 
+}
+
+main {
+    flex: 1; 
+}
+*{
+    margin-bottom: 0;
+}
+.mb-3{
+    margin-top: auto;
+}
